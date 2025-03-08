@@ -1,1 +1,23 @@
+body {
+    background-color: #ffe6f2; /* Light pink */
+    color: #d63384; /* Dark pink */
+    font-family: 'Bodoni Moda', serif;
+    text-align: center;
+}
+
+button {
+    background-color: #ffb6c1; /* Pastel pink */
+    color: #ffffff;
+    font-family: 'Poppins', sans-serif;
+    font-style: italic;
+    font-weight: 100;
+    border: none;
+    border-radius: 20px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.hidden {
+    display: none;
+}
 
